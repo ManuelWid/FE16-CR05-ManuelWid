@@ -36,6 +36,12 @@
     overflow: unset;
 }
 
+.card-img {
+    height: 25vh;
+    object-fit: cover;
+    object-position: center;
+}
+
 .footer {
     background-color: var(--bgColor);
 }
