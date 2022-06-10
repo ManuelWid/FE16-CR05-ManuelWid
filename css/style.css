@@ -8,30 +8,9 @@
     --bgColor2:rgb(57, 63, 68);
 }
 
-/* .deco-none {
+.deco-none {
     text-decoration: none;
     color: black;
-}
-
-#nav-bell:hover i {
-    animation: ringBell .2s linear infinite alternate;
-}
-
-@keyframes ringBell {
-    0% {transform: rotate(20deg);}
-    100% {transform: rotate(-20deg);}
-}
-
-.hero {
-    height: 50vh;
-    background-image: url("../images/agenda.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.hero-textbox {
-    background-color: rgba(0, 0, 0, .5);
 }
 
 .card-deco {
@@ -55,7 +34,7 @@
     height: unset;
     min-height: 2.4em;
     overflow: unset;
-} */
+}
 
 .footer {
     background-color: var(--bgColor);
@@ -76,7 +55,7 @@
     background-color: rgba(0, 0, 0, 0);
     color: white;
     text-decoration: none;
-    transition: color .5s ease;
+    transition: color .3s ease;
 }
 
 .footer-social:hover {
