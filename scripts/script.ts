@@ -329,12 +329,12 @@ new Animal("ferret", "ferry", "male", 45, 4, false, "https://cdn.pixabay.com/pho
 new Animal("bird", "fluffy", "female", 25, 8, false, "https://cdn.pixabay.com/photo/2017/02/07/16/47/kingfisher-2046453__340.jpg");
 new Animal("bird", "albus", "male", 30, 7, false, "https://cdn.pixabay.com/photo/2017/06/09/09/39/adler-2386314__340.jpg");
 
-new Cat("maria", "female", 45, 12, true, "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/american-shorthair-detail.jpg?bust=1535566898&width=355", "American Shorthair", "grey striped", "https://www.petfinder.com/cat-breeds/american-shorthair/");
-new Cat("manuel", "male", 50, 15, true, "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/bengal-detail.jpg?bust=1535566919&width=355", "Bengal", "gold spotted", "https://www.petfinder.com/cat-breeds/bengal/");
-new Cat("jan", "male", 55, 14, true, "https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/balinese-detail.jpg?bust=1535566910&width=355", "Balinese", "muddy yellowish xD", "https://www.petfinder.com/cat-breeds/balinese/");
+new Cat("maria", "female", 45, 12, true, "https://cdn.pixabay.com/photo/2015/11/16/14/43/cat-1045782_960_720.jpg", "American Shorthair", "grey striped", "https://www.petfinder.com/cat-breeds/american-shorthair/");
+new Cat("manuel", "male", 50, 15, true, "https://cdn.pixabay.com/photo/2014/04/13/20/49/cat-323262_960_720.jpg", "Bengal", "gold spotted", "https://www.petfinder.com/cat-breeds/bengal/");
+new Cat("jan", "male", 55, 14, true, "https://cdn.pixabay.com/photo/2013/12/12/03/08/kitten-227009_960_720.jpg", "Balinese", "muddy yellowish xD", "https://www.petfinder.com/cat-breeds/balinese/");
 
-new Dog("idk", "female", 130, 8, true, "https://www.purina.co.uk/sites/default/files/styles/ttt_image_original/public/2021-02/BREED%20Hero%20Desktop_0183_anatolian_shepherd.webp?itok=2Wli7HdU", "Anatolian Shepherd Dog", "Yes", "https://www.purina.co.uk/find-a-pet/dog-breeds/anatolian-shepherd");
-new Dog("idk", "male", 1450, 12, false, "https://www.purina.co.uk/sites/default/files/styles/ttt_image_original/public/2021-02/BREED%20Hero%20Desktop_0181_australian_shepherd_dog.webp?itok=6K0D2AX9", "Australian Shepherd Dog", "No", "https://www.purina.co.uk/find-a-pet/dog-breeds/australian-shepherd");
-new Dog("idk", "female", 110, 3, true, "https://www.purina.co.uk/sites/default/files/styles/ttt_image_original/public/2022-01/BREED%20Hero%20Desktop%20black%20tan%20coonhound.webp?itok=40r4Vnff", "Black and Tan Coonhound", "Yes", "https://www.purina.co.uk/find-a-pet/dog-breeds/black-and-tan-coonhound");
+new Dog("idk", "female", 130, 8, true, "https://cdn.pixabay.com/photo/2016/11/19/15/20/dog-1839808_960_720.jpg", "Anatolian Shepherd Dog", "Yes", "https://www.purina.co.uk/find-a-pet/dog-breeds/anatolian-shepherd");
+new Dog("idk", "male", 1450, 12, false, "https://cdn.pixabay.com/photo/2016/11/29/09/58/dog-1868871_960_720.jpg", "Australian Shepherd Dog", "No", "https://www.purina.co.uk/find-a-pet/dog-breeds/australian-shepherd");
+new Dog("idk", "female", 110, 3, true, "https://cdn.pixabay.com/photo/2021/01/30/15/14/akita-5964180_960_720.jpg", "Black and Tan Coonhound", "Yes", "https://www.purina.co.uk/find-a-pet/dog-breeds/black-and-tan-coonhound");
 
 buildHTML(animals);
